@@ -1,1 +1,0 @@
-# QA Portfolio/test-cases
